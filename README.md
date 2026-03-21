@@ -41,9 +41,8 @@ Desenvolvo projetos pessoais e acadêmicos com o objetivo de solidificar conceit
   <img src="https://github-readme-stats.vercel.app/api?username=JP-rocha23&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">Linguagens Mais Utilizadas</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JP-rocha23/JP-rocha23/main/generated/languages.svg" alt="Languages Pie Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=JP-rocha23&layout=donut&theme=nord&hide=css,html,jupyter%20notebook&display_format=svg" alt="Top Languages" />
 </p>
 
 ---
