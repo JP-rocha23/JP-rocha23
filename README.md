@@ -2,7 +2,7 @@
 
 🚀 Graduando em **Ciência da Computação** pela **Universidade do Estado do Rio de Janeiro (UERJ)**.
 
-Atualmente, sou **Estagiário em Desenvolvimento** na Divisão de Tecnologia do **Tribunal de Justiça do Rio de Janeiro (TJRJ)**. Atuo também no desenvolvimento de sistemas embarcados e engenharia de software para o setor aeroespacial como membro da **Equipe de Aviônica** do **Grupo de Foguetes do Rio de Janeiro (GFRJ)**.
+Atualmente, sou **Estagiário** na Divisão de Tecnologia do **Tribunal de Justiça do Rio de Janeiro (TJRJ)**. Atuo também no desenvolvimento de sistemas embarcados e engenharia de software para o setor aeroespacial como membro da **Equipe de Aviônica** do **Grupo de Foguetes do Rio de Janeiro (GFRJ)**.
 
 Minha trajetória é focada no aprofundamento de algoritmos, estruturas de dados avançadas e arquitetura de sistemas computacionais. Desenvolvo projetos pessoais e acadêmicos explorando novas tecnologias, com ênfase em performance, eficiência de hardware e princípios de Engenharia de Software.
 
