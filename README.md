@@ -36,11 +36,10 @@ Minha trajetória é focada no aprofundamento de algoritmos, estruturas de dados
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JP-rocha23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JP-rocha23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   </a>
-  <br><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-rocha23&layout=compact&theme=tokyonight&hide=html,css" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JP-rocha23&theme=tokyonight" />
   </a>
 </div>
 
