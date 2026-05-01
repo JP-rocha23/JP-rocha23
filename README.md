@@ -27,7 +27,7 @@ Minha trajetória é focada no aprofundamento de algoritmos, estruturas de dados
 ### 🛠 Tecnologias e Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,py,mysql,postgres,git,linux,html,css" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,java,py,mysql,postgres,git,linux,js,html,css" />
 </div>
 
 ---
